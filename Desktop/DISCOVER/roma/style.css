@@ -1,0 +1,12 @@
+body{
+    background:#000;
+    height: 100vh;
+}
+.letra{position:absolute; color:#090; text-align:center;}
+.cor{color:#090;margin-bottom: -7vh;}
+a{
+    font:none;
+    color: #090;
+}
+p{font-size: 5vh;}
+h1{font-size: 10vh;}
